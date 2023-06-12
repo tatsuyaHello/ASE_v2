@@ -1,7 +1,6 @@
 # AppService.Config.Specialist.ASE.1
 ARM Template for deploying lab for AppService Config Specialist Certification - ASE Lab #1
 
-[![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Famymcel%2FAppService.Config.Specialist.ASE.1%2Fmain%2Fazuredeploy.json)
 [![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FtatsuyaHello%2FASE_v2%2Fmaster%2Fazuredeploy.json)
 
 
