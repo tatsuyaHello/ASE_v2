@@ -20,7 +20,7 @@
     "subnetName2": "ase",
     "subnetAddressPrefix2": "10.201.2.0/24",
 
-    "asename": "[concat(parameters('EngineerAlias'), '-ase)]",
+    "asename": "[concat(parameters('EngineerAlias'), '-ase')]",
     "appServicePlanName": "[concat(parameters('EngineerAlias'),'-asp')]",
     "webAppName": "[concat(parameters('EngineerAlias'),'-app')]",
     "webApp-prod-URL": "https://github.com/amymcel/AppService.Config.Specialist.Ase.1.App",
